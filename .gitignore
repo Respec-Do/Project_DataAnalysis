@@ -19,3 +19,7 @@ ipython_config.py
 
 #ignore datasets folder
 datasets/
+callback_files/
+sounds/
+.ipynb_checkpoints/
+images/
